@@ -25,7 +25,7 @@ body{
     display: inline;
     position: absolute;
     left: 86%;
-    top: 3%;
+    top: 4%;
     font-size: 18px;
     font-family: Lato, Helvetica, Arial, sans-serif;
     color: #666666;
@@ -47,7 +47,6 @@ body{
 }
 .img1{
     width: 100%;
-    position: absolute;
     top: 21%;
     height: 669px;
 }
