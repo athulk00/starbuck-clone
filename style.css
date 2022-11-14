@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+}
+.h-top{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0,99,65,1);;
+}
+.logo{
+    position: absolute;
+    left: 8%;
+    top: 6%;   
+    display: inline;
+}
+.location-icon{
+    display: inline;
+    position: absolute;
+    width: 22px;
+    left: 84%;
+    top: 6%;
+}
+.h-middle h4{
+    display: inline;
+    position: absolute;
+    left: 86%;
+    top: 3%;
+    font-size: 18px;
+    font-family: Lato, Helvetica, Arial, sans-serif;
+    color: #666666;
+}
+.h-bottom{
+    display: flex;
+    display: flex;
+    position: absolute;
+    top: 17%;
+    left: 9%;
+    gap: 44px;
+    font-family: Lato, Helvetica, Arial, sans-serif ;
+    font-size: 18px;
+    font-weight: 200;
+    color: #0f0f0f;
+}
+.content1{
+    width: 100%;
+    height: 669px;
+}
+.img1{
+    width: 100%;
+    position: absolute;
+    top: 24%;
+    height: 669px;
+}
+.content2{
+    width: 100%;
+    height: 504px;
+}
+.img2{
+width: 100%;
+}
+.content3{
+width: 100%;
+height: 504px;
+}
+.img3{
+    width: 100%;
+}
+.content4{
+    width: 100%;
+}
+.img4{
+    width: 100%;
+}
+.content5{
+    width: 100%;
+}
+.img5{
+    width: 100%;
+}
+.content6{
+    width: 100%;
+    height: 650px;
+}
+.img6{
+    width: 100%;
+    height: 650px;
+}
+.content7{
+    background: white;
+    width: 100%;
+    height: 550px;
+}
+.comon-inner-7-8{
+    display: flex;
+    gap: 251px;
+    margin-left: 260px;
+    margin-top: 54px;
+}
+.content7-text{
+    font-family: Lato, Helvetica, Arial, sans-serif;
+    margin-top: 125px;
+}
+.comon-inner-7-8 h1{
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+.comon-inner-7-8 p{
+    font-style: italic;
+    font-size: 21px;
+    font-family: 'Crete Round',Georgia,'Times New Roman',serif;;
+}
+.content8{
+    background: white;
+    width: 100%;
+    height: 550px;
+}
+.footer-top{
+    display: flex;
+    height: 144px;
+    background-color: #e6e8e8;
+    border: 3px solid white;
+    gap: 25px;
+    align-items: center;
+    padding-left: 190px;
+}
+.icon-f{
+    width: 35px;
+    height: 37px;
+}
+.icon-t{
+    width: 46px;
+    height: 46px;
+}
+.icon-i{
+    width: 58px;
+    height: 58px;
+}
+.footer-bottom{
+    width: 100%;
+    background-color: #f7f7f7;
+    display: flex;
+    
+}
+.footer-bottom-l1{
+    display: flex;
+    gap: 5px;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    color:  #3d3935;
+    font-size: 1.2em;
+    margin-left: 30px;
+    padding-top: 45px;
+}
+.footer-bottom-l1 h1{
+    font-weight: 700;
+    font-size: 20px;
+}
+.footer-bottom-l1 h3{
+    font-weight: 400;
+    font-size: 1em;
+}
+.costomerservice{
+    margin-left: 120px;
+}
+.quicklinks{
+    padding-left: 10px;
+}
+.list{
+    display: inline;
+    color: #666;
+    margin-left: 30px;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    padding-top: 20px;
+}
+#copyright{
+margin-left: 30px;
+margin-top: 26px;
+font-weight: 200;
+color:#666 ;
+font-size: 0.7em;
+}
+.l2-content{
+    margin-top: 79px;
+}
+.name-starbuck{
+    height: 166px;
+    margin-left: 485px;
+    margin-top: 34px;
+}
+
