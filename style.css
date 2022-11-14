@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-display: optional;
+    overflow-x: hidden;
 }
 .h-top{
     width: 100%;
@@ -31,9 +32,8 @@ body{
 }
 .h-bottom{
     display: flex;
-    display: flex;
     position: absolute;
-    top: 17%;
+    top: 16%;
     left: 9%;
     gap: 44px;
     font-family: Lato, Helvetica, Arial, sans-serif ;
@@ -48,7 +48,7 @@ body{
 .img1{
     width: 100%;
     position: absolute;
-    top: 24%;
+    top: 21%;
     height: 669px;
 }
 .content2{
