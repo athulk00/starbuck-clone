@@ -22,10 +22,11 @@ body{
     top: 6%;
 }
 .h-middle h4{
+    margin:0 ;
     display: inline;
     position: absolute;
     left: 86%;
-    top: 4%;
+    top: 7%;
     font-size: 18px;
     font-family: Lato, Helvetica, Arial, sans-serif;
     color: #666666;
